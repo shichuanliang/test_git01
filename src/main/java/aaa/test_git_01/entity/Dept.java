@@ -4,6 +4,7 @@ public class Dept {
     private Integer depton;
     private String dname;
     private String loc;
+    private String address;
 
     public Integer getDepton() {
         return depton;
