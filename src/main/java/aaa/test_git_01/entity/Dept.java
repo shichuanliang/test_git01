@@ -3,6 +3,7 @@ package aaa.test_git_01.entity;
 public class Dept {
     private Integer depton;
     private String dname;
+    private String loc;
 
     public Integer getDepton() {
         return depton;
